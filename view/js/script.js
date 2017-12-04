@@ -218,7 +218,8 @@ $(document).keyup(function(e)
 	if (e.keyCode == 27) 
 	{ 
 		eleIds = [	"project1",
-					"travel1"
+					"travel1",
+					"project2"
 					
 				];
 		for (i = 0; i < eleIds.length; i++) 
